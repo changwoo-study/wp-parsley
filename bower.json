@@ -1,0 +1,19 @@
+{
+  "name": "wp-parsley",
+  "homepage": "https://github.com/chwnam/wp-parsley",
+  "authors": [
+    "changwoo <ep6tri@hotmail.com>"
+  ],
+  "license": "GPLv2+",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "assets/bower_components/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "parsleyjs": "^2.8.1"
+  }
+}
